@@ -188,7 +188,7 @@ Wazuh automatically mapped the detected alerts to the following frameworks:
 Cybersecurity Fresher | SOC Analyst (Blue Team)
 📍 Mumbai, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sumedhpiyalkar/)
 
 ---
 
