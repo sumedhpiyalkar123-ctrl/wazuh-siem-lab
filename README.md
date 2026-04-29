@@ -31,7 +31,25 @@
 **Kali Linux 2025.2** — Nmap port scan
 
 ---
+## 📸 Screenshots
 
+### Agent Overview — Windows 11 Endpoint Active
+![Agent Overview](vmware_o9XoLvBRy6.png)
+
+### Vulnerability Detection & Security Assessment
+![Vulnerability Detection](vmware_AsVuFJeAva.png)
+
+### Threat Hunting Dashboard — 502 Events
+![Threat Hunting](vmware_pUhIg930kX.png)
+
+### Event Log — Alert Timeline
+![Event Log](vmware_oAcE24toVA.png)
+
+### Document Details — T1098 Event Data
+![Document Details](vmware_3LuTfhuCff.png)
+
+### Rule Mapping — MITRE & Compliance Frameworks
+![Rule Mapping](vmware_yCro9Vbtsp.png)
 ## ⚙️ Setup & Configuration
 
 ### Wazuh Server
